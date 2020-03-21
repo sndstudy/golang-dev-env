@@ -4,6 +4,8 @@
   - http://docs.docker.jp/compose/compose-file.html
   - https://docs.docker.com/compose/compose-file/
   - https://knowledge.sakura.ad.jp/5736/
+- Go Modules
+  - https://github.com/golang/go/wiki/Modules
 
 ### makeターゲット
 
