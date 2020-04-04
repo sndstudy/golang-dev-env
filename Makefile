@@ -16,7 +16,7 @@ stop: # コンテナ停止
 
 CMD=
 go: # goコマンド
-	docker-compose exec golang-env go $(CMD)
+	docker-compose exec -d golang-env go $(CMD)
 .PHONY: go
 
 .PHONY: help 
