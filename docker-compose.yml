@@ -6,5 +6,5 @@ services:
     ports: 
       - "18080:18080"
     volumes:
-      - ./src:/work/src
+      - .:/work
     tty: true

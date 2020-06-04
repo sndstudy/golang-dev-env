@@ -1,2 +1,2 @@
 FROM golang:latest
-WORKDIR /work/src
+WORKDIR /work
